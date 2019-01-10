@@ -1,6 +1,7 @@
 # Card-Based-web-template
 
-
+![alt output](https://github.com/singhbrajesh4142/Card-Based-web-template/blob/master/Output_1.png)
+![alt output](https://github.com/singhbrajesh4142/Card-Based-web-template/blob/master/Output_1.png)
 
 With reference to the above image please note that the web-page has a card based layout
 where the cards have fixed width while the height varies from card to card. However, in spite of
